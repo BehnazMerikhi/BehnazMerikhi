@@ -1,13 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Behnaz Merikhi
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Behnaz
 ======================================================================================================================================
 
-Research Scientist, Developer
------------------------------
-
-I am an R&D professional specializing in designing and optimizing edge caching for content delivery networks and video-on-demand (VoD) services. I have expertise in AI techniques, data-driven methodologies, and optimization algorithms with a solid background in 5G wireless communications, coding & information theory, and image/video processing.
+I am an R&D professional specializing in designing and optimizing edge caching for content delivery networks and video-on-demand (VoD) services. I have expertise in AI techniques, data-driven methodologies, and optimization algorithms, with a solid background in 5G wireless communications, coding & information theory, and image/video processing.
 
 * 🌍  I'm based in Toronto, Canada
-* 🧠  I'm learning advanced AI thechniques
+* 🧠  I'm learning advanced AI techniques
 
 ### Skills
 
